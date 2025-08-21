@@ -53,3 +53,6 @@ Kamis 21 Agustus 2025
 
 # Kesimpulan
   Perangkat Server dan Client bisa terkoneksi menggunakan layer 2, karna proses dari PPPOE ini akan memanfaatkan MAC Address perangkat.  
+
+# Sumber
+Youtube - Citraweb - https://www.youtube.com/watch?v=CyA3Bxuluy8&t=1480s
