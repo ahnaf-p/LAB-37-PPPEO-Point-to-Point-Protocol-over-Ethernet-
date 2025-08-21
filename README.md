@@ -21,3 +21,35 @@ Kamis 21 Agustus 2025
 ![](IMAGES/noclientroute.png)  
 
 # Konfigurasi PPPOE Client
+1. masuk ke winbox   
+2. pilih mwnu ppp > interface    
+3. klik (+)     
+4. masukan nama (opsional) lalu pilih interface yang terhubung ke PPPoE servernya.      
+
+![m](y1.PNG)
+
+5. di tab **Dial out** masukan user dan password yang telah di buat oleh server dan masukakn service name yang di buat oleh server lalu profile arah kan ke **default-encryption.** trus centang use peer DNS.  
+
+![m](y2.PNG)
+
+6. jika sudah terhubung kita akan mendapat kan ip address secara otomatis    
+   dilihat di menu ip > address
+
+![m](adds.png)
+
+7. lalu kita juga dapat ip route     
+   bisa di lihat di menu ip > routes
+
+![m](rt.png)
+
+8. dan kita juga dapat DNS secara otomatis    
+   cek di menu ip > DNS
+
+![m](dns.png)
+
+9. lalu ping untuk mengetes jaringan internet   
+
+![m](pink.png)
+
+# Kesimpulan
+  Perangkat Server dan Client bisa terkoneksi menggunakan layer 2, karna proses dari PPPOE ini akan memanfaatkan MAC Address perangkat.  
