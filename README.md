@@ -1,4 +1,4 @@
-# LAB-37-PPPEO-Point-to-Point-Protocol-over-Ethernet
+# LAB-37-PPPOE-Point-to-Point-Protocol-over-Ethernet
 Kamis 21 Agustus 2025  
   
 # Point-to-Point-Protocol-over-Ethernet  
